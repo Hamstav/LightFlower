@@ -1,9 +1,9 @@
 # What is LightFlower?
 Do you want to have a unique décorative vase? Choose the exact dimensions, the color, the shape?
 No?
-Then you probably want to have unique decorative lanterns for your led lighting chain?
+Then you probably want to have unique decorative lanterns for your *led* lighting chain?
 In either case, this project got you covered!
-# How doeas it work?
+# How does it work?
 It's a Blender script that will create a vase or a lantern depending on the setting. The script is based on sine fonctions ti give the vase or lantern it's distinctive shape.
 
 You will provide the settings, run the script, export the STL. Voilà, a file ready to slice and print!
@@ -15,3 +15,9 @@ I have uploaded on Thingyverse many of my favorite designs. You can use and resi
 For vases, I used many type of PLA. I printed some in vase mode in CURA and it works well. The vases are solid enough for most decorative uses. Everything worked well.
 
 For lanterns, transparent PLA worked well. I printed them solid. I tried Orange, Red and Green filament. The orange is perfect. The red is a little bit too dark and the green one is too light. Overall they work well together.
+
+# What parameter will I be able to change?
+Main parameters are
+- *LFBaseRadius* : The radius at the base of the vase. The base will be filled. If you are designing a lantern, this will be on the side you will put a hole to fit the base in the bulb socket. The radius of the hole is another parameter
+- *LFTopRadius* : The radius at the top of the vase. If you are designing a lantern, this will be the site you will need to fit your bulb in.
+- *LFHoleRadius* : The radius of the hole of your lantern. This will be on the side you will put a hole to fit the base in the bulb socket.
