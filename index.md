@@ -21,3 +21,4 @@ Main parameters are
 - *LFBaseRadius* : The radius at the base of the vase. The base will be filled. If you are designing a lantern, this will be on the side you will put a hole to fit the base in the bulb socket. The radius of the hole is another parameter
 - *LFTopRadius* : The radius at the top of the vase. If you are designing a lantern, this will be the site you will need to fit your bulb in.
 - *LFHoleRadius* : The radius of the hole of your lantern. This will be on the side you will put a hole to fit the base in the bulb socket.
+![](media\3DPrintedLantern.jpg)
