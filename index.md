@@ -1,1 +1,5 @@
-# Hello world
+# What is LightFlower?
+Do you want to have a unique décorative vase? Choose the exact dimensions, the color, the shape?
+No?
+Then you probably want to have unique decorative lanterns for your led lighting chain?
+In either case, this project got you covered!
